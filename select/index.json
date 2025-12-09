@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ビターバカンス",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-09T12:33:37.998332Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ビターバカンス",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/01_ビターバカンス_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ビターバカンス  (FLAC)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/02_ビターバカンス_(FLAC)_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ビターバカンス - Bitter Vacances",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/03_ビターバカンス_-_Bitter_Vacances_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ビターバカンス / Bitter Vacances",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/04_ビターバカンス___Bitter_Vacances_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ビターバカンス",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_ビターバカンス_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
